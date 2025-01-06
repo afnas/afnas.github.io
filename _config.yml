@@ -9,7 +9,7 @@ name: afnas protolab
 description: Meine Reise durch das 3D-Drucken
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/afnas_protolab_logo.png
+avatar: https://raw.githubusercontent.com/afnas/afnas.github.io/main/images/afnas_protolab_logo.png
 
 #
 # Flags below are optional
